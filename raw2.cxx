@@ -10,7 +10,7 @@
 #include "TF1.h"
 
 /*
-  Root macro to extract and nice-ify all raw histograms produced from Tag and Probe Trigger Monitoring
+  Root macro Work in progress...
 */
 
 using namespace std;
